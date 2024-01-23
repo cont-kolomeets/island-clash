@@ -6,7 +6,7 @@ Welcome to the jungle! Build a variety of towers and defend against the invading
 
 Drag and place towers along the road to stop invading enemies. Upgrade, repair and configure your towers during the battle. Follow the in-game tutorial for more information.
 
-# How to play
+# How to start the game
 
 Execute Flash Player from `bin/flashplayer.exe` and drop the file `bin/Island Clash.swf` to the player.
 
