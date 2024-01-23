@@ -1,5 +1,6 @@
-# island-clash
-Island Clash (game)
+# Island Clash
+
+Tower defence game.
 
 # Game Description
 
