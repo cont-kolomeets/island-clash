@@ -1,4 +1,4 @@
-# Island Clash: Game Description
+# Game Description
 
 Welcome to the jungle! Build a variety of towers and defend against the invading enemy forces. Wage guerrilla warfare in jungles, swamps, forests and mountain peaks against more than 20 different types of enemy! Be sure to upgrade and repair your towers during battle in this fun tower defence game.
 
