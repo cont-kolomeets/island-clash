@@ -1,6 +1,18 @@
 # island-clash
 Island Clash (game)
 
+# Game Description
+
+Welcome to the jungle! Build a variety of towers and defend against the invading enemy forces. Wage guerrilla warfare in jungles, swamps, forests and mountain peaks against more than 20 different types of enemy! Be sure to upgrade and repair your towers during battle in this fun tower defence game.
+
+# Game Instructions
+
+Drag and place towers along the road to stop invading enemies. Upgrade, repair and configure your towers during the battle. Follow the in-game tutorial for more information.
+
+# How to play
+
+Execute Flash Player from `bin/flashplayer.exe` and drop the file `bin/Island Clash.swf` to the player.
+
 # Trailer
 
 https://youtu.be/XFv_vUYxPHQ?si=9YQohoJLCzLtBeVZ
