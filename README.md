@@ -8,7 +8,7 @@ Drag and place towers along the road to stop invading enemies. Upgrade, repair a
 
 # How to start the game
 
-Execute Flash Player from `bin/flashplayer.exe` and drop the file `bin/Island Clash.swf` to the player.
+Execute Flash Player from `release/flashplayer.exe` and drop the file `release/Island Clash v1.0.swf` into the player.
 
 # Trailer
 
