@@ -30,3 +30,7 @@ https://youtu.be/XFv_vUYxPHQ?si=9YQohoJLCzLtBeVZ
 ![level 8](https://github.com/cont-kolomeets/island-clash/assets/5318527/a57a5ca7-572d-4e1b-8ef7-0249a6aed252)
 
 ![upgrade menu](https://github.com/cont-kolomeets/island-clash/assets/5318527/5bd1798c-157a-433c-ac01-d57ed73930ee)
+
+# Analytics
+
+![image](https://github.com/cont-kolomeets/island-clash/assets/5318527/dc826838-dfcd-4b2d-883c-e24395cdcf65)
