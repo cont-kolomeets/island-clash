@@ -16,7 +16,8 @@ https://youtu.be/XFv_vUYxPHQ?si=9YQohoJLCzLtBeVZ
 
 # Screenshots
 
-![01 main menu](https://github.com/cont-kolomeets/island-clash/assets/5318527/92940400-4dc0-4b31-891b-ac26c70f582d)
+![image](https://github.com/cont-kolomeets/island-clash/assets/5318527/f92561f1-c930-4a6a-8672-fc116d75dcdb)
+
 
 ![07 map](https://github.com/cont-kolomeets/island-clash/assets/5318527/7d1ccb0f-6468-44c9-9538-a4a19e23682d)
 
